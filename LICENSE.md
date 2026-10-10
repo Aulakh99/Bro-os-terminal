@@ -1,0 +1,2 @@
+Copyright (c) 2026 Aulakh99. All rights reserved.
+You are granted a limited, non-exclusive license to download, access, and use this software for personal purposes. You are strictly prohibited from modifying, adapting, reverse-engineering, remixing, or distributing modified versions of this work.
